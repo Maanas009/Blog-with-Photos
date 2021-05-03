@@ -1,41 +1,22 @@
-#contact iframe
-{
-    width: 100%;
+img {
+    width: 400px;
+    height: 300px;
+    border: solid;
+    border-width: medium;
+    border-color: blue;
 }
-.contact_1 h3
-{
-    display: inline;
+body {
+    background-color:aquamarine;
+    text-align: center;
 }
-.contact_1 a
-{
-    text-shadow: none;
-}
- 
-input
-{
-    background: grey
-}
-#down {
-    float: right;
-    margin-right: 20px;
+.topleft {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
-.moviediv {
-    padding: 10px;
-    margin: 10px;
-    font-size: 20px;
-    border-radius: 30px;
-}
-.movieheading {
-    padding: 20px;
-    margin: 20px;
-    border-radius: 20px;
-}
-.list-group-item{
-    margin: 20px;
-    
-}
-#imgmodal {
-    height: 200px;
-    width: 200px;
+.bottleft {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
